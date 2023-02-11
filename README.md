@@ -1,8 +1,14 @@
-
+<div >
+  <h1>Ivan Gasques Front-end</h1>
+  Innovative Front-End Developer with a flair for creativity and a passion for delivering exceptional user experiences. With +1 years of experience under my belt, I specialize in transforming concepts into visually stunning and highly intuitive web designs. My expertise in HTML, CSS,JavaScript and React enables me to build dynamic and responsive websites that engage and captivate audiences. Constantly seeking new challenges, I stay ahead of the curve by exploring cutting-edge technologies and refining my skills to deliver superior solutions for the projetcs.
+ I try to be my best developer version everyday!
+</div>
+<br>
 <div align="center">
+  
   <a href="https://github.com/ivangasques">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivangasques&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangasques&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ivangasques&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangasques&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
